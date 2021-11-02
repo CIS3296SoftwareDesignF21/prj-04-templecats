@@ -4,6 +4,12 @@
 
 # How to Install
 
+# Vision
+
+_Warm-hearted, animal loving college students and faculty with a desire to help their local feline community need basic information on where their services are most necessary. The Temple Cats website is a Web-based service that
+provides critical information regarding the local cat communities including location information, veterinary contact information, and first aid guidance that improve cat prosperity at critical touch points. Unlike other websites dedicated to cat prosperity, our website provides very detailed, geographically relevant, and practical services for free._
+
+
 # Personas
 
 _Jason, age 18, is a first-year student studying psychology at Temple University main campus, a 
