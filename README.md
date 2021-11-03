@@ -15,7 +15,7 @@ provides critical information regarding the local cat communities including loca
 ### Persona 1 
 Jason, age 18, is a first-year student studying psychology at Temple University main campus, a 
 large public university in the heart of bustling North Philadelphia. He spends most of his time procrastinating from studying by watching cat videos on YouTube. He was born in a rural town northwest of Philadelphia, where his father 
-runs a bakery and his mother is a school nurse. Jason’s family had a myriad of pets growing up, making Jason an avid animal lover from the time he was a young boy. <img width="371" alt="Screen Shot 2021-11-03 at 12 57 37 PM" src="https://user-images.githubusercontent.com/45643520/140115803-07f44c34-c2de-40c5-a15d-c5c4f2f39622.png">
+runs a bakery and his mother is a school nurse. Jason’s family had a myriad of pets growing up, making Jason an avid animal lover from the time he was a young boy.
 
 
 Jason’s long history with pets means has made him quite fond of being a pet owner. He greatly desires to have pets of his own; however, it is against the terms of the lease he signed with the university. He is particularly interested in using the Temple Cats website to gain more information on how he can begin caring for a cat community near his dorm.
