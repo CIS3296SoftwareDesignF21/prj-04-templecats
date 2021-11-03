@@ -8,8 +8,8 @@ For the project, we are proposing the creation of a website for Temple Cats. Tem
 
 # Vision
 
-_Warm-hearted, animal loving college students and faculty with a desire to help their local feline community need basic information on where their services are most necessary. The Temple Cats website is a Web-based service that
-provides critical information regarding the local cat communities including location information, veterinary contact information, and first aid guidance that improve cat prosperity at critical touch points. Unlike other websites dedicated to cat prosperity, our website provides very detailed, geographically relevant, and practical services for free._
+Warm-hearted, animal loving college students and faculty with a desire to help their local feline community need basic information on where their services are most necessary. The Temple Cats website is a Web-based service that
+provides critical information regarding the local cat communities including location information, veterinary contact information, and first aid guidance that improve cat prosperity at critical touch points. Unlike other websites dedicated to cat prosperity, our website provides very detailed, geographically relevant, and practical services for free.
 
 
 ### Persona 1 
@@ -29,3 +29,6 @@ Alex is 21 and a student at Temple. He adopted an adult calico cat from a shelte
 
 ### Persona 4
 Mary is the mother of a Temple Cats volunteer who just graduated. Mary would love to help out with the Temple Cats volunteer group but she does not know how to. Her kid tells her about how Temple Cats has a website where she could learn more about volunteering. Mary visits the website and instantly she is greeted by the front page. This page tells er about contact info as well as any activities that are going on in which she may be able to participate. She contacts them and the organization asks if she could drive supplies from one place to another. She agrees and checks the events section to figure out where she needs to go.
+
+# Weekly Activites:
+[a relative link to week1.md](week1.md)
