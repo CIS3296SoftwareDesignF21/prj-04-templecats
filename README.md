@@ -15,7 +15,8 @@ provides critical information regarding the local cat communities including loca
 ### Persona 1 
 Jason, age 18, is a first-year student studying psychology at Temple University main campus, a 
 large public university in the heart of bustling North Philadelphia. He spends most of his time procrastinating from studying by watching cat videos on YouTube. He was born in a rural town northwest of Philadelphia, where his father 
-runs a bakery and his mother is a school nurse. Jason’s family had a myriad of pets growing up, making Jason an avid animal lover from the time he was a young boy. 
+runs a bakery and his mother is a school nurse. Jason’s family had a myriad of pets growing up, making Jason an avid animal lover from the time he was a young boy. <img width="371" alt="Screen Shot 2021-11-03 at 12 57 37 PM" src="https://user-images.githubusercontent.com/45643520/140115803-07f44c34-c2de-40c5-a15d-c5c4f2f39622.png">
+
 
 Jason’s long history with pets means has made him quite fond of being a pet owner. He greatly desires to have pets of his own; however, it is against the terms of the lease he signed with the university. He is particularly interested in using the Temple Cats website to gain more information on how he can begin caring for a cat community near his dorm.
 
@@ -32,3 +33,10 @@ Mary is the mother of a Temple Cats volunteer who just graduated. Mary would lov
 
 # Weekly Activites:
 [a relative link to week1.md](week1.md)
+
+Link to site: https://www.templecats.org/
+
+<img width="376" alt="Screen Shot 2021-11-03 at 12 56 46 PM" src="https://user-images.githubusercontent.com/45643520/140114798-042d2b9a-099a-4c9d-9668-4dbe849b58c9.png">
+<img width="371" alt="Screen Shot 2021-11-03 at 12 57 37 PM" src="https://user-images.githubusercontent.com/45643520/140116043-baf11d12-d441-4b27-96cd-cab8f48e3f73.png">
+
+
