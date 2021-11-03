@@ -21,3 +21,6 @@ Jason’s long history with pets means has made him quite fond of being a pet ow
 Emily is a sophomore in college. She is going for a walk in the evening, and finds a small orange kitten huddled in a pile of trash. She approaches it with food, and finds out that it is extremely friendly. She comes back with a cardboard box and carries it home. She quickly googles the basic needs of a cat and creates a makeshift litter box, and buys some cheap dry food from the nearest convenience store.
 
 She posts on instagram about a found kitten, and someone messages her, telling her to check out the Temple Cats website to help find out what the next steps are to care for this kitten.
+
+### Persona 3
+Alex is 21 and a student at Temple. He adopted an adult calico cat from a shelter when he got his apartment and has been looking after it for a few months. For the past couple days the cat has not been eating regularly and Alex is worried. Alex is not familiar with any veterinarians in the area and doesn't know where to take his cat to get looked at. He heard about Temple Cats and wants to use the website in order to find out where to take his cat for a medical evaluation/ medical care.
