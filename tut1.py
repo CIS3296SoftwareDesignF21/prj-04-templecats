@@ -15,3 +15,5 @@ def user(name):
 @app.route("/admin")
 def admin():
     return redirect(url_for('home'))
+
+    # FLASK_APP=tut1.py flask run
