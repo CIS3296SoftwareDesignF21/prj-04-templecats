@@ -9,8 +9,7 @@ https://www.templecats.org/
 just a website, no need to install
 # Vision
 
-Warm-hearted, animal loving college students and faculty with a desire to help their local feline community need basic information on where their services are most necessary. The Temple Cats website is a Web-based service that
-provides critical information regarding the local cat communities including location information, veterinary contact information, and first aid guidance that improve cat prosperity at critical touch points. Unlike other websites dedicated to cat prosperity, our website provides very detailed, geographically relevant, and practical services for free.
+FOR warm-hearted, animal loving college students and faculty WHO desire to help their local feline community and need basic information on where their services are most necessary, The TEMPLE CATS WEBSITE is a Web-based service THAT provides critical information regarding the local cat communities including location information, veterinary contact information, and first aid guidance that improves cat prosperity at critical touch points. UNLIKE other websites dedicated to cat prosperity, OUR PRODUCT provides very detailed, geographically relevant, and practical services for free.
 
 
 ### Persona 1 Josh Hageman
