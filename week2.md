@@ -6,4 +6,4 @@ Josh Hageman: Worked on rough sketch of website, created inital backend using Py
 
 Mikhail Sajed:
 
-Justice Chang:
+Justice Chang: Worked on creating UML diagram. Attended Zoom meeting 11/5 and 11/9.
