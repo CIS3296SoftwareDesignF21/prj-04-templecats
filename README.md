@@ -37,6 +37,8 @@ Mary is the mother of a Temple Cats volunteer who just graduated. Mary would lov
 
 [a relative link to week2.md](week2.md)
 
+[a relative link to week3.md](week3.md)
+
 ![eb93fdb26af78f33ab469af9e1106111](https://user-images.githubusercontent.com/45643520/141032334-4351df26-c733-4c5a-9cba-ea9e78722919.png)
 
 Link to site: https://www.templecats.org/
