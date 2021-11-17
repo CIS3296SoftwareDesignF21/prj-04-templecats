@@ -1,5 +1,15 @@
 from flask import Flask, redirect, url_for, render_template
+from flaskext.mysql import MySQL # used to create mysql db connection
 app = Flask(__name__)
+
+#Configure the connection to DB
+mysql = MySQL()
+app.config['MYSQL_DATABASE_HOST'] = 'localhost'
+app.config['MYSQL_DATABASE_USER'] = 'jhageman'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'Jhageman99?'
+app.config['MYSQL_DATABASE_DB'] = 'TempleCats'
+mysql.init_app(app)
+
 
 #define the home page of our site
 @app.route('/') # sets the route to the current page
@@ -30,10 +40,7 @@ def pet_care():
 def donate_volunteer():
    return render_template("donate_volunteer.html")
 
-#@app.route("/<name>")
-#def user(name):
-#    print('my name is ', name)
-#    return f"Hello {name}!"
+
 
 # create webpage called admin
 @app.route("/admin")
