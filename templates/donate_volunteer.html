@@ -15,12 +15,13 @@
     <!-- Navbar -->
 <div class="w3-top">
     <div class="w3-bar w3-theme w3-top w3-center w3-large">
-      <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Report a Cat</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Cat Colonies</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Cat Care</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Support</a>
+      <a href="/" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Home</a>
+      <a href="/communitycats" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Community Cats</a>
+      <a href="/catsoutside" class="w3-bar-item w3-button w3-hide-small w3-hover-white">See Cats Outside?</a>
+      <a href="/tnr" class="w3-bar-item w3-button w3-hide-small w3-hover-white">TNR</a>
+      <a href="/our_kitties" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Our Kitties</a>
+      <a href="/pet_care" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Pet Care</a>
+      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Donate & Volunteer</a>
       <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Partners</a> -->
     </div>
   </div>
@@ -57,23 +58,42 @@
 
 
     </div>
-    <form method="POST">
-      First name: <input type="text" name="fname"><br>
-      Last name: <input type="text" name="lname"><br>
-      Email Address : <input type="text" name="emailid"><br>
-      <input type="submit" value="Submit">
-   </form>
-    <!-- Pagination -->
-    <div class="w3-center w3-padding-32">
-      <div class="w3-bar">
-        <a class="w3-button w3-black" href="#">1</a>
-        <a class="w3-button w3-hover-black" href="#">2</a>
-        <a class="w3-button w3-hover-black" href="#">3</a>
-        <a class="w3-button w3-hover-black" href="#">4</a>
-        <a class="w3-button w3-hover-black" href="#">5</a>
-        <a class="w3-button w3-hover-black" href="#">»</a>
-      </div>
-    </div>
+
+   <div class="content">
+    
+    <div class="container">
+      <div class="row align-items-stretch justify-content-center no-gutters">
+        <div class="col-md-7">
+          <div class="form h-100 contact-wrap p-5">
+            <h3 class="text-center">Let's Talk</h3>
+            <form class="mb-5" method="post" id="contactForm" name="contactForm">
+              <div class="row">
+                <div class="col-md-6 form-group mb-3">
+                  <label for="" class="col-form-label">First Name *</label>
+                  <input type="text" class="form-control" name="fname" id="fname" placeholder="Your first name">
+                </div>
+                <div class="col-md-6 form-group mb-3">
+                  <label for="" class="col-form-label">Last Name *</label>
+                  <input type="text" class="form-control" name="lname" id="lname"  placeholder="Your last name">
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-12 form-group mb-3">
+                  <label for="budget" class="col-form-label">Email *</label>
+                  <input type="email" class="form-control" name="emailid" id="emailid" placeholder="Your email">
+                </div>
+              </div>
+       
+              <div class="row justify-content-center">
+                <div class="col-md-5 form-group text-center">
+                  <input type="submit" value="Send Message" class="btn btn-block btn-primary rounded-0 py-2 px-4">
+                  <span class="submitting"></span>
+                </div>
+              </div>
+            </form>
+
+   
   
   <!-- END MAIN -->
   </div>
