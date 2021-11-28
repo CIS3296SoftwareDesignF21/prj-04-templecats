@@ -46,10 +46,12 @@ def donate_volunteer():
         first_name=request.form['fname']
         last_name=request.form['lname']
         email_id=request.form['emailid']
+        address_id=request.form['addressid']
+        phone_id=request.form['phoneid']
         connection = mysql.get_db()
         cursor = connection.cursor()
-        query="INSERT INTO volunteers(first_name,last_name,email) VALUES(%s,%s,%s)"
-        cursor.execute(query,(first_name,last_name,email_id))
+        query="INSERT INTO volunteer_data(first_name,last_name,email, address, phone) VALUES(%s,%s,%s,%s,%s)"
+        cursor.execute(query,(first_name,last_name,email_id, address_id, phone_id))
         connection.commit()
     #render html
     return render_template("donate_volunteer.html")
