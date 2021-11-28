@@ -18,11 +18,11 @@ def home():
 
 @app.route('/community_cats')
 def community_cats():
-    return render_template("ccats.html")
+    return render_template("communitycats.html")
 
 @app.route("/see_cats_outside")
 def see_cats_outside():
-    return render_template("see_cats_outside.html")
+    return render_template("catsoutside.html")
 
 @app.route("/tnr")
 def tnr():
@@ -34,7 +34,7 @@ def our_kitties():
 
 @app.route("/pet_care")
 def pet_care():
-   return render_tempate("pet_care.html")
+   return render_template("pet_care.html")
 
 @app.route("/donate_volunteer")
 def donate_volunteer():
