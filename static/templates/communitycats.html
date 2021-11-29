@@ -36,8 +36,8 @@
   
   <!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
   <div class="w3-main">
-    <div class="w3-row w3-padding-64 w3-center">
-      <div class="w3-container w3-center">
+    <div class="w3-row w3-padding-64 ccatscenter">
+      <div class="right-block">
           <h1 style="color:#b22849" class="w3-center">What is a Community Cat?</h1>
         <p>“‘Community Cats’ is a term used to describe outdoor, unowned, free-roaming cats. These cats could be friendly, feral,
             adults, kittens, healthy, sick, altered and/or unaltered. They may or may not have a caregiver.
@@ -47,13 +47,67 @@
   
     <div class="w3-row w3-padding-64 w3-center">
       <div class=" w3-container w3-center">
-          <h1 style="color:#b22849" class="w3-center">Stray or Feral?</h1>
-        <p>These terms refer to the level of domestication an animal is in. Community cats have a combination of both stray and feral kitties, together they form very strong colonies!
-            The basics are that stray cats have recently become un-homed and have the ability to, or already are, friendly towards humans.
+          <h1 style="color:#b22849" class="w3-center">Types of Cats</h1>
+	  <title>CSS Grids</title>
+	<style>
+		.wrapper{
+			display:grid;
+			max-width: 50%;
+			grid-template-columns: 30% 70%;
+			border:#333 1px solid;
+                        border: 2px solid #DC143CFF;
+                        border-radius:5px;
+		}
+		.wrapper > div{
+			background:#eee;
+			padding: 1em;
+			border:#333 1px solid;
+		}
+		.wrapper > div:nth-child(odd){
+			background:#ddd;
+		}
+	</style>
+	  <div class="wrapper center">
+		  <div>
+			  <font size=+3> Lost & Found Cats </font>
+			  <br> <img src="../img/cats/ccat_one.jpeg" style="width:250px">
+		  </div>
+	       	  <div>
+	 		<font size="+2">These cats are typically very friendly, and therefore are someone’s missing pet cat. Lost cats will sometimes have flyers in the area,
+				including shelters and rescues. Found cats are cats found outdoors that are friendly. Found cats can be someone’s lost pet,
+				and therefore any found cat that is friendly needs to be checked for a microchip,
+				and flyers should be put out. However, sometimes found cats will not be claimed... </font>
+	          </div>
+		  <div>
+			  <font size=+3> Abandoned & Friendly Stray Cats</font>
+			  <br> <img src="../img/cats/peanut.jpeg" style="width:250px">
 
-            This means they could be domesticated again. Feral cats are not socialized with humans either because they were born in the wild or are far removed from their once domesticated life.
-
-            Beside is a great device explain in more depth about the differences between the two groups.</p>
+		  </div>
+		  <div>
+			  <font size="+2"> When a found cat isn’t claimed, it is assumed to be abandoned. When this happens, the cat needs to be fostered and medically
+			  evaluated to check that it is healthy, and eradicate any parasites that could have come from living outside.
+			  Alternatively, it can be surrendered to a rescue, which will accept on a case by case basis based on rescue space and resources.
+			  If it is medically urgent, aka pregnant or injured, it can be surrendered to ACCT immediately.
+			  </font>
+		  </div>
+		  <div>
+			  <font size="+3">Feral Cats</font>
+			<br> <img src="../img/cats/ccat_two.jpg" style="width:250px">
+		  </div>
+		  <div>
+			  <font size="+2"> These cats are often born outside, afraid of humans, and are undomesticated. They are not friendly enough to ever do well as someone’s pet, and need to be maintained outdoors. </font>
+		  </div>
+		  <div>
+			  <font size="+3">Colony Cats</font>
+			  <br> <img src="../img/cats/ccat_three.jpg" style="width:250px">
+		  </div>
+		  <div>
+			  <font size="+2">  Cats that are regularly seen on a street are often maintained by a colony. A colony is a location where there is food, water, and potentially shelter.
+			  The cats in a colony usually are fixed, evident by an ear tip. The ear tip is discussed more in the TNR section(include hyperlink). 
+			  Colony cats can be any of the above types. Ferals and friendly strays are typically regulars of a colony, and therefore when a new cat appears, it is lost or abandoned.
+			  </font>
+		 </div>
+	  </div>
       </div>
     </div>
   </div>

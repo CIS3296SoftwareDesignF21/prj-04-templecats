@@ -1769,3 +1769,28 @@ a {
     margin-right: auto;
     width: 50%;
 }
+.ccatscenter {
+    display: block;
+    margin-left: 32%;
+    margin-right: auto;
+    width: 120%;
+    
+}
+.right-block {
+    margin-top: 6%;
+    float:left;
+    display: block;
+    width: 30%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.qa_left{
+   float:left;
+   display:block;
+   margin-left: 0%;
+   margin-right: 3%;
+   z-index: 1;
+}
