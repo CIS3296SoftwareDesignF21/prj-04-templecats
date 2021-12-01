@@ -1857,6 +1857,20 @@ a {
     border-radius: 10px;
     border-style: solid;
 }
+.center6 {
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+
 .left-block2 {
     float: left;
     margin-left: 23%;
