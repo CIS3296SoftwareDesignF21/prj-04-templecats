@@ -16,6 +16,12 @@ Valerie Keo:
 
 Josh Hageman: 
 * Attended group zoom meet 11/28
+* Updated README to include updated run instructions
+* Fixed image linking issues
+* Built entry form for website
+* Built table to store entry data in MySQL database
+* Resolved merge conflicts when consolidating branches
+* Made stylistic changes to donation and volunteer page
 
 Mikhail Sajed: 
 * Attended group zoom meet 11/27
