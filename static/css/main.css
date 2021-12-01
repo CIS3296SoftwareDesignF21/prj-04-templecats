@@ -1769,3 +1769,130 @@ a {
     margin-right: auto;
     width: 50%;
 }
+.ccatscenter {
+    display: block;
+    margin-left: 32%;
+    margin-right: auto;
+    width: 120%;
+    
+}
+.right-block {
+    margin-top: 6%;
+    float:left;
+    display: block;
+    width: 30%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.left-block {
+    float: left;
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-right: 2%;
+    position: relative;
+    display: block;
+    width: 30%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.left-image {
+    float:left;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-right: 3%;
+    z-index: 1;
+}
+.right-image {
+    margin-top: 2%;
+    float:left;
+    z-index: 1;
+    margin-bottom: 5%;
+}
+.clear{
+    clear: both;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 5%;
+}
+.center3 {
+    display: block;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+    margin-bottom: 2%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.center4 {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.center5 {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: left;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.center6 {
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: center;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.left-block2 {
+    float: left;
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-right: 2%;
+    position: relative;
+    display: block;
+    width: 30%;
+    text-align: left;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
+.qa_left{
+   float:left;
+   display:block;
+   margin-left: 0%;
+   margin-right: 3%;
+   z-index: 1;
+}
