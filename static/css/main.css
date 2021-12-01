@@ -1857,3 +1857,17 @@ a {
     border-radius: 10px;
     border-style: solid;
 }
+.left-block2 {
+    float: left;
+    margin-left: 23%;
+    margin-top: 5%;
+    margin-right: 2%;
+    position: relative;
+    display: block;
+    width: 30%;
+    text-align: left;
+    border-color: #b22849;
+    border-width: medium;
+    border-radius: 10px;
+    border-style: solid;
+}
