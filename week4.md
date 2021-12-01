@@ -1,8 +1,8 @@
 ## Group Member Contributions
 Valerie Keo: 
 * Updated trello board. 
-* Attended group zoom meet 11/27
-* Attended group zoom meet 11/28
+* Attended group zoom meet 11/27.
+* Attended group zoom meet 11/28.
 * Created shared drive folder with website creation resources.
 * Developed 7 tab outlines for each page.
 * Filled excel sheet with cat names and bios.
@@ -12,21 +12,22 @@ Valerie Keo:
 * Cleaned file locations by organizing with folders in EC2 instance.
 * Added code to simplify flask server execution (without manual environment variable initialization).
 * Updated github to separate README.md to smaller md files with aspects from previous weeks.
+* Prepped readme.md and other md files for lab demo
 * Delegated tasks to team.
 
 Josh Hageman: 
-* Attended group zoom meet 11/28
-* Updated README to include updated run instructions
-* Fixed image linking issues
-* Built entry form for website
-* Built table to store entry data in MySQL database
-* Resolved merge conflicts when consolidating branches
-* Made stylistic changes to donation and volunteer page
+* Attended group zoom meet 11/28.
+* Updated README to include updated run instructions.
+* Fixed image linking issues.
+* Built entry form for website.
+* Built table to store entry data in MySQL database.
+* Resolved merge conflicts when consolidating branches.
+* Made stylistic changes to donation and volunteer page.
 
 Mikhail Sajed: 
-* Attended group zoom meet 11/27
-* Attended group zoom meet 11/28
+* Attended group zoom meet 11/27.
+* Attended group zoom meet 11/28.
 
 Justice Chang: 
-* Attended group zoom meet 11/27
-* Attended group zoom meet 11/28
+* Attended group zoom meet 11/27.
+* Attended group zoom meet 11/28.
