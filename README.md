@@ -3,10 +3,16 @@
 For the project, we are proposing the creation of a website for Temple Cats. Temple Cats is a small TNR rescue around Temple’s main campus, with approximately 16 colony locations for feral cats. The website should be an introduction to students of the colonies. The homepage will an active slideshow of the colony cats. There could be a “kitty graveyard” type area of the website that contains all cats who have passed or been adopted. The location of noncurrent colony cats has yet to be decided. The dedicated colony pages will also have links to a wishlist/active donation links, so viewers can make donations, or alternatively, buy cat supplies straight out. However, the site needs a way to be updated weekly. Each colony page will have dedicated weekly updates, with status of the cats, as well as new images. The website is also meant to be a resource for Temple students who want to get cats, and there needs to be a way to allow large amounts of information.
 
 # How to Run
+flask run
+then neavigate to 
+http://18.191.112.99:8080/
+![image](https://user-images.githubusercontent.com/77538305/144263063-fc2ba457-8ccb-48e8-ae24-1da0fa92e33a.png)
+
 https://www.templecats.org/
 
 # How to Install
-just a website, no need to install
+Clone the repo
+Install the required dependencies located in requirements.txt
 
 # Vision
 
@@ -35,7 +41,6 @@ The above sequence diagram demonstrates the communication between user and websi
 
 The above sequence diagram demonstrates the communication between user and website application when a user wants to donate supplies. The user will first click on the donation tab on the temple cats website. There, they will find the Amazon Wishlist link, that when clicked, will redirect the user to Amazon to complete the donation purchase.
 
-Link to site: https://www.templecats.org/
 
 <img width="376" alt="Screen Shot 2021-11-03 at 12 56 46 PM" src="https://user-images.githubusercontent.com/45643520/140114798-042d2b9a-099a-4c9d-9668-4dbe849b58c9.png">
 <img width="371" alt="Screen Shot 2021-11-03 at 12 57 37 PM" src="https://user-images.githubusercontent.com/45643520/140116043-baf11d12-d441-4b27-96cd-cab8f48e3f73.png">
