@@ -27,6 +27,11 @@ Josh Hageman:
 Mikhail Sajed: 
 * Attended group zoom meet 11/27.
 * Attended group zoom meet 11/28.
+* Finalized homepage
+* Designed TNR page
+* Designed Pet Care page
+* Created framework of Donate and Volunteer page
+* Worked on merging files
 
 Justice Chang: 
 * Attended group zoom meet 11/27.
